@@ -11,7 +11,7 @@ class PhilaCodeBlue extends WP_Widget {
           function PhilaCodeBlue() {
                     $widget_ops = array(
                     'classname' => 'PhilaCodeBlue',
-                    'description' => 'Cold weather warning.'
+                    'description' => 'Cold weather warning'
           );
 
           $this->WP_Widget(
