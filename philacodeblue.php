@@ -23,7 +23,7 @@ function philaCodeBlue($args, $instance) { // widget sidebar output
 function buildMessage() {
 $message = print <<<EOM
 
-  <div id="codeBlueContainer" style="height: 58px; background-color: #FAFAFA; border-radius: 10px; padding: 10px">
+  <div id="codeBlueContainer" style="height: 59px; background-color: #FAFAFA; border-radius: 10px; padding: 10px">
   <div id="codeBlueImage" style="float: left; margin: 2px;"><img alt="" src='wp-content/plugins/philacodeblue/codeblueicon.png' /></div>
     <div id="codeBlueLeftText" style="float: left; width: 350px"><span style="color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; line-height: 16px;">Code Blue In Effect</span><br style="color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; line-height: 16px;" /> <span style="color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13x; font-weight: bold; line-height: 16px;">as of 2/3/2014 @ 6pm until further Notice</span></div>
     <div id="codeBlueRightText" style="float: right; width: 450px; border-left-style: solid 2px; border-left-color: black">The City of Philadelphia has declared a Code Blue Alert advising of severe cold weather.
